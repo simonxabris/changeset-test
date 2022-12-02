@@ -1,8 +1,12 @@
 {
-  "name": "eslint-config-custom",
+  "name": "changeset-eslint-config-custom",
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "http://localhost:4873/",
+    "access": "public"
+  },
   "dependencies": {
     "eslint": "^7.23.0",
     "eslint-config-next": "13.0.0",
@@ -12,8 +16,5 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }

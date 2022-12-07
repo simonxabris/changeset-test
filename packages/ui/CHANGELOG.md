@@ -1,5 +1,11 @@
 # ui
 
+## 0.4.0
+
+### Minor Changes
+
+- a464b7c: mod button
+
 ## 0.3.0
 
 ### Minor Changes
